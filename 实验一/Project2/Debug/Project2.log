@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\Project2\源.c(58,12): warning C4098: “load”:“void”函数返回值
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\Project2\源.c(75,12): warning C4098: “save”:“void”函数返回值
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\Project2\源.c(96,44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Project2.vcxproj -> C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\Project2\Debug\Project2.exe
