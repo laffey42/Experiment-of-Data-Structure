@@ -1,0 +1,10 @@
+﻿  源.c
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链队列\源.c(56,27): warning C4133: “=”: 从“Queue *”到“LQPointer *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链队列\源.c(66,22): warning C4133: “=”: 从“LQPointer *”到“Queue *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链队列\源.c(70,25): warning C4133: “=”: 从“Queue *”到“LQPointer *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链队列\源.c(84,23): warning C4133: “=”: 从“LQPointer *”到“Queue *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链队列\源.c(88,30): warning C4133: “==”: 从“Queue *”到“LQPointer *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链队列\源.c(88,51): warning C4133: “=”: 从“Queue *”到“LQPointer *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链队列\源.c(96,24): warning C4133: “=”: 从“LQPointer *”到“Queue *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链队列\源.c(130,24): warning C4133: “=”: 从“LQPointer *”到“Queue *”的类型不兼容
+  链队列.vcxproj -> C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链队列\Debug\链队列.exe
