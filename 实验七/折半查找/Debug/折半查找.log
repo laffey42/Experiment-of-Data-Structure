@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\数据结构\实验七\折半查找\源.c(83,3): warning C4033: “Recursive”必须返回值
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\数据结构\实验七\折半查找\源.c(91,3): warning C4033: “Recursive”必须返回值
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\数据结构\实验七\折半查找\源.c(93): warning C4716: “Recursive”: 必须返回一个值
+  折半查找.vcxproj -> C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\数据结构\实验七\折半查找\Debug\折半查找.exe
