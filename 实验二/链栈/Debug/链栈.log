@@ -1,0 +1,7 @@
+﻿  源.c
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链栈\源.c(21,57): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链栈\源.c(43,6): warning C4013: “free”未定义；假设外部返回 int
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链栈\源.c(40,1): warning C4133: “初始化”: 从“Stack_OPTR *”到“Stack_OPND *”的类型不兼容
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链栈\源.c(205,9): warning C4013: “system”未定义；假设外部返回 int
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链栈\源.c(88): warning C4715: “Precede”: 不是所有的控件路径都返回值
+  链栈.vcxproj -> C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\链栈\Debug\链栈.exe

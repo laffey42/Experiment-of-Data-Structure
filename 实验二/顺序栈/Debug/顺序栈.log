@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\顺序栈\源.c(204,9): warning C4013: “system”未定义；假设外部返回 int
+C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\顺序栈\源.c(95): warning C4715: “Precede”: 不是所有的控件路径都返回值
+  顺序栈.vcxproj -> C:\Users\阿根廷秃子\Desktop\学习\vs2019\项目\C语言试验\顺序栈\Debug\顺序栈.exe
